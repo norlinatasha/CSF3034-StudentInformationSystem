@@ -36,6 +36,7 @@ public class StudentInformationSystem {
         } else if (total >= 120) {
             System.out.println("Result: Good");
         } else {
+            // Result calculation feature added
             System.out.println("Result: Needs Improvement");
         }
     }
