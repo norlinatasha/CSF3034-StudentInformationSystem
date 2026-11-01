@@ -38,6 +38,7 @@ public class StudentInformationSystem {
         } else {
             System.out.println("Result: Needs Improvement");
             System.out.println("Faculty: Informatics and Computing");
+            // Result calculation feature added
         }
     }
     
